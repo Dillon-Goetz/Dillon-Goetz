@@ -31,16 +31,13 @@ See [my website](https://dillon-goetz.netlify.app/) for more information!
     <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"/>
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
     <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
-    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=98bf53&style=plastic&logo=amazon"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=cdd148&style=plastic&logo=wordpress"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=98bf53&style=plastic&logo=adobe"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
+    <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=black"/>
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"/>
     <img src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=fff"/>
     <img src="https://img.shields.io/badge/Squarespace-000000?logo=squarespace&logoColor=fff">
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
