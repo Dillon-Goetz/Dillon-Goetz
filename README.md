@@ -1,5 +1,5 @@
 
-<img src="images\Dillon Goetz.jpg" width="100%">
+<img src="DGoetzCodes/images/Dillon Goetz.jpg" width="100%">
 
 <p align="center">
   <a href="https://dillon-goetz.netlify.app/" target="_blank">
