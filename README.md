@@ -40,7 +40,7 @@ See [my website](https://dillon-goetz.netlify.app/) for more information!
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"/>
     <img src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=fff"/>
     <img src="https://img.shields.io/badge/Squarespace-000000?logo=squarespace&logoColor=fff">
-    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"/>
 </p>
 
 
